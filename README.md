@@ -1,1 +1,1 @@
-# REST API with Node Js and Express
+# REST API with Node.js and Express
