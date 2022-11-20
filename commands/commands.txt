@@ -1,0 +1,11 @@
+
+npm init (accept all the defaults)
+npm install express
+npm  install body-parser
+Set-ExecutionPolicy Unrestricted
+npm install nodemon -g
+nodemon index.js (start the server)
+
+
+
+
