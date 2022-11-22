@@ -16,7 +16,6 @@
 
 
 <H3>Patient and medical records deleted from database</H3>
-
 <img src="https://i.imgur.com/BXb7bMc.png" height="80%" width="80%" alt="Image 1"/>
 
 
