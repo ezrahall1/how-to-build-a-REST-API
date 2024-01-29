@@ -24,6 +24,4 @@ In this Node.js and Express REST API project, I showcase the implementation of f
 <img src="https://i.imgur.com/FAmoBrT.png" height="80%" width="80%" alt="Image 2"/>
 
 <h2>Learning Outcome</h2>
-From completing this project I was able to understand how REST API works as well as learning that REST API is scalable, felixible and also caching is easier since the server is stateless and each request can be processed individually.
-
-A RESTful API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data. That data can be used to GET, PUT, POST and DELETE data types, which refers to the reading, updating, creating and deleting of operations concerning resources.
+By completing this project, I gained a comprehensive understanding of REST API operations, recognizing its scalability, flexibility, and the ease of caching due to its stateless nature. RESTful API, an architectural style for interfaces, employs HTTP requests to access and manipulate data. The CRUD operations—GET, PUT, POST, and DELETE—are employed to read, update, create, and delete resources, illustrating the versatile functionalities of REST API. The project highlights the significance of a stateless server, enabling individualized processing of each request, contributing to the scalability and adaptability of RESTful API implementations.
