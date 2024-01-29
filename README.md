@@ -1,6 +1,6 @@
 # REST API with Node.js and Express
-In this REST API project using Node.js and Express. I demonstrate how to retrieve patients medical records, update patients personal information such as: address, phone number etc, add a new patient to the system and delete existing patient medical records from the database.
-I used Postman to send my API requests and to test the code.
+
+In this Node.js and Express REST API project, I showcase the implementation of functionalities for managing patients' medical records. The demonstration encompasses retrieving medical records, updating personal information like addresses and phone numbers, adding new patients to the system, and deleting existing patient medical records from the database. The entire process is facilitated using Postman, which serves as a tool for sending API requests and testing the code. By presenting these key operations, the project provides insights into building a robust and versatile RESTful API for healthcare data management using the Node.js and Express frameworks, ensuring seamless interactions with patient records
 
 <h2>Services Used</h2>
 
